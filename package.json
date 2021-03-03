@@ -1,13 +1,13 @@
 {
-  "name": "@ew/prettier-node",
-  "version": "1.0.0",
-  "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
+  "name": "@ewmarkets/prettier-node",
+  "version": "1.0.1",
+  "description": "A Prettier shareable config for projects using 'Prettier' and ESLint for NodeJS projects",
   "main": ".prettierrc.json",
   "repository": {
     "type": "git",
     "url": "git@github.com:jflores/ew-prettier-node.git"
   },
-  "bin": {
+  "scripts": {
     "lint": "prettier --write \"./**/*.{js,jsx}\""
   },
   "keywords": [
