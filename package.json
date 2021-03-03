@@ -1,5 +1,5 @@
 {
-  "name": "Edgewater Markets Prettier",
+  "name": "@ew/prettier-node",
   "version": "1.0.0",
   "description": "A Prettier shareable config for projects using 'Prettier' and 'JavaScript Standard Style' as ESLint rules or separate processes.",
   "main": ".prettierrc.json",
