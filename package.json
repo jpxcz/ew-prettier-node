@@ -1,6 +1,6 @@
 {
   "name": "@ewmarkets/prettier-node",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "A Prettier shareable config for projects using 'Prettier' and ESLint for NodeJS projects",
   "main": ".prettierrc.json",
   "repository": {
